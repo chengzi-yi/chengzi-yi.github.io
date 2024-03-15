@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hi, welcome to my website.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am an Economics Ph.D. researcher at the European University Institute, Italy. My research focuses on heterogeneous firms and their dynamic decisions, and falls within the fields of quantitative macroeconomics, firm dynamics, finance, and trade. My advisors are [Prof. Russell Cooper](https://www.eui.eu/people?id=russell-cooper) and [Prof. Alexander Monge-Naranjo](https://www.eui.eu/people?id=alexander-monge-naranjo).
