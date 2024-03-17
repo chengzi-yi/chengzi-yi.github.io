@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research
 ---
 
-# Work in Progress
+### Work in Progress
 
 **Collateral Constraints and Asset Composition** [Draft available upon request]
     - [Slides](https://chengzi-yi.github.io/assets/slides_collateral_investment.pdf)
