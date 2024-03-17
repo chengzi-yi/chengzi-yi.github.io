@@ -1,12 +1,13 @@
 menu:
-- {name: 'Research', url: '/_pages/research'}
-- {name: 'Teaching', url: '/_pages/teaching'}
-- {name: 'CV', url: '/_pages/cv'}
-- {name: 'contact', url: '/_pages/contact'}
+- {name: 'Research', url: '/research'}
+- {name: 'Teaching', url: '/teaching'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
 
 
 social:
 - {icon: 'github', link: 'https://github.com/chengzi-yi'}
+
 
 contacts:
 - {name: 'Chengzi Yi', department: 'Department of Economics', institution: 'European University Institute', institution_address: 'Via Delle Fontanelle 18, 50014 FI, Italy', phone: '(39) 351 520 1725', email: 'Chengzi.Yi@eui.eu', image: 'assets/img/contact.jpg'}
