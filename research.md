@@ -1,6 +1,7 @@
 ---
 layout: research
 title: "Research"
+permalink: /research
 ---
 
 # Work in Progress
