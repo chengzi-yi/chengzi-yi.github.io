@@ -1,8 +1,8 @@
 menu:
-- {name: 'Research', url: '/research'}
-- {name: 'Teaching', url: '/teaching'}
-- {name: 'CV', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Research', url: '/_pages/research'}
+- {name: 'Teaching', url: '/_pages/teaching'}
+- {name: 'CV', url: '/_pages/cv'}
+- {name: 'contact', url: '/_pages/contact'}
 
 
 social:
