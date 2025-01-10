@@ -6,7 +6,7 @@ permalink: /teaching
 **Graduate TA:**
 
 - Dynamic Economics: Simulation Based Estimators for Prof. Russell Cooper, EUI PhD Core Course, 2022/01-2022/03
-  [Course Materials on Github](https://github.com/chengzi-yi/Metrics-III-SMM), [Evaluation](/assets/ECO-CO-STATS3-Statistics-and-Econometrics-3-1.pdf)
+  *[Course Materials on Github](https://github.com/chengzi-yi/Metrics-III-SMM), [Assessment Report](/assets/ECO-CO-STATS3-Statistics-and-Econometrics-3-1.pdf)*
 - Financial Theory and Policy for Prof. Lijian Sun, Fudan University Master Advanced Course, 2017/02-2017/06
 
 **Undergraduate TA:**
