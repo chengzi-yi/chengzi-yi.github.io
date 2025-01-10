@@ -6,7 +6,7 @@ permalink: /research
 ### Working Papers
 
 
-##### **Collateral Constraints and Asset Composition**
+**Collateral Constraints and Asset Composition**
 
 *Presented at BOFIT Seminar (2024/11/26), Bank of Finland; European Doctoral Programme Jamboree (2024/06/07), Barcelona; Marco Working Group (2024/04/18), European University Institute*
 
@@ -14,7 +14,8 @@ This paper investigates how collateral constraints influence firms’ investment
 
 [*Slides*](/assets/slides_collateral_investment.pdf), [*Draft*](/assets/draft_collateral_investment.pdf)
 
-##### **Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China**
+
+**Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China**
 
 *Presented at Finance Seminar (2023/05/23), Universitat Pompeu Fabra*
 
@@ -27,18 +28,20 @@ The investment regression on a sample of Chinese listed firms shows that there i
 ### Work in Progress
 
 
-##### Export Dynamics of Multi-product Firms with (Non-)Differentiable Products
+**Export Dynamics of Multi-product Firms with (Non-)Differentiable Products**
 
 - Investigates how product differentiability shapes the product scope and export intensity of multi-product firms.
 - Uses a structural model and detailed data from French manufacturers to explore interactions between product and export dynamics across domestic and foreign markets.
 - Highlights how trade restrictions or industrial policies impact firms with varying product differentiation, linking technical efficiency and demand factors to export sorting and firm behaviour.
 
-##### **Product Differentiability and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
+
+**Product Differentiability and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
 
 - Investigates how product differentiability affects the export decisions of multi-destination, multi-product firms.
 - Utilises Colombian export data to examine distinct expansion patterns in both product and geographic dimensions for exporters of homogeneous versus differentiated goods.
 
-##### **Decentralized Industrial Policy and Multi-Region Production Network (with *Xiaoyan Fan*)**
+
+**Decentralized Industrial Policy and Multi-Region Production Network (with *Xiaoyan Fan*)**
 
 - Studies industrial policy in a multi-region economy interconnected by regional input-output networks, where regional governments aim to maximise local output, neglecting externalities on other regions.
 - Constructs marginal intervention incentives for central and regional governments using a multi-region, multi-sector general equilibrium model.
