@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research
 ---
 ### Working Papers
-
-
+---
 **Collateral Constraints and Asset Composition**
 
 *Presented at BOFIT Seminar (2024/11/26), Bank of Finland; European Doctoral Programme Jamboree (2024/06/07), Barcelona; Marco Working Group (2024/04/18), European University Institute*
@@ -23,11 +22,10 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 [*Draft*](/assets/draft_qreg_ch.pdf)
 
+
 ---
-
 ### Work in Progress
-
-
+---
 **Export Dynamics of Multi-product Firms with (Non-)Differentiable Products**
 
 - Investigates how product differentiability shapes the product scope and export intensity of multi-product firms.
