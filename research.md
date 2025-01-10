@@ -43,7 +43,3 @@ The investment regression on a sample of Chinese listed firms shows that there i
 - Studies industrial policy in a multi-region economy interconnected by regional input-output networks, where regional governments aim to maximise local output, neglecting externalities on other regions.
 - Constructs marginal intervention incentives for central and regional governments using a multi-region, multi-sector general equilibrium model.
 - Evaluates industrial and fiscal policies in China. Finds that regional governments favour policies such as direct subsidies and tax reductions, with stronger effects in regions with higher fiscal capacity. In contrast, the central government implements industrial policies through the financial system, offering lower-cost credit to targeted industries and regions.
-
-
-
----
