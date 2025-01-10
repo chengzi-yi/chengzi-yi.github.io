@@ -3,8 +3,12 @@ layout: research
 title: "Research"
 permalink: /research
 ---
-### Working Papers
 ---
+
+#### Working Papers
+
+---
+
 **Collateral Constraints and Asset Composition**
 
 *Presented at BOFIT Seminar (2024/11/26), Bank of Finland; European Doctoral Programme Jamboree (2024/06/07), Barcelona; Marco Working Group (2024/04/18), European University Institute*
@@ -12,7 +16,6 @@ permalink: /research
 This paper investigates how collateral constraints influence firms’ investment allocation between real estate and non-real estate capital. I develop a model that incorporates adjustment costs and collateral constraints, where capital assets differ in both adjustment costs and pledgeability. Using data from Chinese listed firms, I estimate the model and demonstrate that financial frictions and adjustment costs play critical roles in shaping firms’ capital investment behavior. The model explains the observed high proportion of real estate in firms’ capital composition, especially for smaller firms. Introducing collateral constraints improves the model’s fit to the data. The estimation results indicate significantly higher fixed costs for adjusting real estate capital and greater pledgeability of real estate assets. Removing financial frictions leads to lower aggregate capital and revenue due to zero collateral value and reduced capital investments, whereas eliminating both frictions increases them. A real estate crise, where real estate becomes unpledgeable, can distort firms’ investment decisions and overall economic output, resulting in a 4.6% decrease in aggregate TFPR and a 0.3% reduction in aggregate revenue.
 
 [*Slides*](/assets/slides_collateral_investment.pdf), [*Draft*](/assets/draft_collateral_investment.pdf)
-
 
 **Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China**
 
@@ -22,22 +25,22 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 [*Draft*](/assets/draft_qreg_ch.pdf)
 
+---
+
+#### Work in Progress
 
 ---
-### Work in Progress
----
+
 **Export Dynamics of Multi-product Firms with (Non-)Differentiable Products**
 
 - Investigates how product differentiability shapes the product scope and export intensity of multi-product firms.
 - Uses a structural model and detailed data from French manufacturers to explore interactions between product and export dynamics across domestic and foreign markets.
 - Highlights how trade restrictions or industrial policies impact firms with varying product differentiation, linking technical efficiency and demand factors to export sorting and firm behaviour.
 
-
 **Product Differentiability and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
 
 - Investigates how product differentiability affects the export decisions of multi-destination, multi-product firms.
 - Utilises Colombian export data to examine distinct expansion patterns in both product and geographic dimensions for exporters of homogeneous versus differentiated goods.
-
 
 **Decentralized Industrial Policy and Multi-Region Production Network (with *Xiaoyan Fan*)**
 
