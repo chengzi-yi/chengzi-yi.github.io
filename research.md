@@ -33,14 +33,14 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 **Export Dynamics of Multi-product Firms with (Non-)Differentiable Products**
 
-- Investigates how product differentiability shapes the product scope and export intensity of multi-product firms.
-- Uses a structural model and detailed data from French manufacturers to explore interactions between product and export dynamics across domestic and foreign markets.
+- Investigates how product differentiation shapes the product scope and export intensity of multi-product firms.
+- Uses a structural model and detailed data from Slovenian manufacturers to explore interactions between product and export dynamics across domestic and foreign markets.
 - Highlights how trade restrictions or industrial policies impact firms with varying product differentiation, linking technical efficiency and demand factors to export sorting and firm behaviour.
 
-**Product Differentiability and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
+**Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
 
-- Investigates how product differentiability affects the export decisions of multi-destination, multi-product firms.
-- Utilises Colombian export data to examine distinct expansion patterns in both product and geographic dimensions for exporters of homogeneous versus differentiated goods.
+- Investigates how product differentiation affects the export decisions of multi-destination, multi-product firms.
+- Utilises Colombian export data to examine distinct expansion patterns in both product and geographic dimensions for exporters of non-differentiated versus differentiated goods.
 
 **Decentralized Industrial Policy and Multi-Region Production Network (with *Xiaoyan Fan*)**
 
