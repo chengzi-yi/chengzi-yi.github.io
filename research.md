@@ -31,7 +31,7 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 ---
 
-**Export Dynamics of Multi-product Firms with (Non-)Differentiable Products**
+**Export Dynamics of Multi-product Firms with (Non-)Differentiated Products**
 
 - Investigates how product differentiation shapes the product scope and export intensity of multi-product firms.
 - Uses a structural model and detailed data from Slovenian manufacturers to explore interactions between product and export dynamics across domestic and foreign markets.
