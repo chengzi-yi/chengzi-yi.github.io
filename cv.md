@@ -4,4 +4,4 @@ title: "CV"
 permalink: /cv
 ---
 
-Please find my CV [here](/assets/CZYi_CV.pdf).
+Please find my CV [here](/assets/CV_CZYi.pdf).

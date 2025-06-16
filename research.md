@@ -3,11 +3,12 @@ layout: research
 title: "Research"
 permalink: /research
 ---
----
 
-#### Working Papers
+**Export Dynamics of Multi-product Firms with (Non-)Differentiated Products**
 
----
+*Draft coming soon*
+
+This paper explores how product differentiation interacts with heterogeneous firm characteristics to shape export dynamics. Using sectoral data across 16 European countries and Slovenian firm-level data, I document two stylized facts. First, exporter labour productivity premiums (the difference in average labour productivity between exporters and non-exporters) are systematically lower in more differentiated sectors. Second, exporters in more differentiated sectors exhibit greater product concentration, suggesting a "star-product effect." I develop a dynamic structural model incorporating both firm-level productivity affecting marginal costs across all products and firm-product-market-specific appeal shocks. The model features a productivity-appeal interaction where the relative importance of firm efficiency versus product-specific characteristics varies with the degree of product differentiation, and economies of scope from shared fixed costs that generate the star-product effect. Calibrating separately for high-differentiation (machinery) and low-differentiation (food) sectors, I find that productivity heterogeneity explains 88% of labour productivity variances in food sector, while appeal shocks explain 65% in machinery sector.
 
 **Collateral Constraints and Asset Composition**
 
@@ -24,18 +25,6 @@ This paper investigates how collateral constraints influence firms’ investment
 The investment regression on a sample of Chinese listed firms shows that there is a significant correlation between investment rate and cash flow ratio after conditioning on average Q. This is true for both state-owned firms and private firms, which are conventionally considered to have different financial conditions. As noted by Cooper and Ejarque (2003), the violation of the constant-returns-to-scale assumption creates a wedge between average Q and marginal Q and can lead to a spurious cash effect in the investment regression even when there are no financial frictions. Following their argument, this paper examines the investment regression results of the Chinese firms by estimating a standard Hayashi's (1982) model which allows for decreasing returns to scale. The estimation results suggest that despite the decreasing returns to scale of capital, the presence of financial constraints brings the standard capital adjustment model closer to the data moments of both state-owned and private firms in China.
 
 [*Draft*](/assets/draft_qreg_ch.pdf)
-
----
-
-#### Work in Progress
-
----
-
-**Export Dynamics of Multi-product Firms with (Non-)Differentiated Products**
-
-- Investigates how product differentiation shapes the product scope and export intensity of multi-product firms.
-- Uses a structural model and detailed data from Slovenian manufacturers to explore interactions between product and export dynamics across domestic and foreign markets.
-- Highlights how trade restrictions or industrial policies impact firms with varying product differentiation, linking technical efficiency and demand factors to export sorting and firm behaviour.
 
 **Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
 
