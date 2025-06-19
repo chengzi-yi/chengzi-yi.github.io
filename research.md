@@ -3,7 +3,6 @@ layout: research
 title: "Research"
 permalink: /research
 ---
-
 **Export Dynamics of Multi-product Firms with (Non-)Differentiated Products**
 
 *Draft coming soon*
@@ -30,9 +29,3 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 - Investigates how product differentiation affects the export decisions of multi-destination, multi-product firms.
 - Utilises Colombian export data to examine distinct expansion patterns in both product and geographic dimensions for exporters of non-differentiated versus differentiated goods.
-
-**Decentralized Industrial Policy and Multi-Region Production Network (with *Xiaoyan Fan*)**
-
-- Studies industrial policy in a multi-region economy interconnected by regional input-output networks, where regional governments aim to maximise local output, neglecting externalities on other regions.
-- Constructs marginal intervention incentives for central and regional governments using a multi-region, multi-sector general equilibrium model.
-- Evaluates industrial and fiscal policies in China. Finds that regional governments favour policies such as direct subsidies and tax reductions, with stronger effects in regions with higher fiscal capacity. In contrast, the central government implements industrial policies through the financial system, offering lower-cost credit to targeted industries and regions.
