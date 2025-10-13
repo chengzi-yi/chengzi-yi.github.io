@@ -3,19 +3,19 @@ layout: default
 ---
 
 <div class="row g-5 mb-5">
-  <div class="col-md-4">
+  <div class="col-md-5">
     <img src="{{ site.github.url }}/assets/img/profile.jpg" alt="Home" class="img-fluid" width="100%">
     <div class="mt-3">
       {% for item in site.data.settings.social %}
       {% assign style = item.style | default: 'fab' %}
-      <a href="{{ item.link }}" class="me-2 fs-6" target="_blank" rel="noopener noreferrer" aria-label="{{ item.icon }}">
+      <a href="{{ item.link }}" class="me-4 fs-6" target="_blank" rel="noopener noreferrer" aria-label="{{ item.icon }}">
         <i class="{{ style }} fa-{{ item.icon }}"></i>
       </a>
       {% endfor %}
     </div>
   </div>
 
-  <div class="col-md-8">
+  <div class="col-md-7">
     <h3 class="fw-bold">Hi, welcome!</h3>
     {{ content }}
   </div>
