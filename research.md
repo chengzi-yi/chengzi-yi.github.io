@@ -1,6 +1,6 @@
 ---
 layout: research
-title: ""
+title: "Research"
 permalink: /research
 ---
 #### Job Market Paper
