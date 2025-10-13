@@ -3,8 +3,19 @@ layout: research
 title: "Research"
 permalink: /research
 ---
-#### Job Market Paper
 
+<style>
+/* underline only h4 within this page wrapper */
+.research-only h4 {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 2px;
+}
+</style>
+
+<div class="research-only" markdown="1">
+
+#### Job Market Paper
 ---
 
 **Export Dynamics of Multiproduct Firms with (Non-)Differentiated Products**
@@ -15,7 +26,6 @@ Canonical models with heterogeneous firms and sunk export-entry costs suggest th
 
 
 #### Other Papers
-
 ---
 
 **Collateral Constraints and Asset Composition**
@@ -36,7 +46,7 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 
 #### Work in Progress
-
 ---
 
 **Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter** (*with Marius Gruenewald*)
+</div>
