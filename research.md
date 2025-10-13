@@ -3,17 +3,17 @@ layout: research
 title: "Research"
 permalink: /research
 ---
-## Job Market Paper
+#### Job Market Paper
 
-**Export Dynamics of Multi-product Firms with (Non-)Differentiated Products**
+##### Export Dynamics of Multiproduct Firms with (Non-)Differentiated Products
 
 *Draft coming soon*
 
 Canonical models with heterogeneous firms and sunk export-entry costs suggest that more profitable firms export, a phenomenon known as export sorting. This paper shows that export sorting varies systematically with product differentiation. Using Slovenian administrative data, I document that the gap in value added per worker between exporters and non-exporters is smaller in more differentiated sectors, especially among multiproduct firms. I rationalise this pattern with a model in which multiproduct firms choose product scope and export participation based on efficiency and market-specific product appeal, with sunk export costs shared across products. Estimating the model separately for high- and low-differentiation sectors reveals lower demand elasticities, higher fixed production costs, lower export-entry costs, and more volatile appeal shocks in the high-differentiation sector; the model reproduces the observed sorting patterns. I then evaluate a 50 percentage-point tariff on a single product and find large contractions with substantial spillovers in the low-differentiation sector but minimal spillovers and little aggregate response in the high-differentiation sector.
 
-## Other Papers
+#### Other Papers
 
-**Collateral Constraints and Asset Composition**
+##### Collateral Constraints and Asset Composition
 
 *Presented at BOFIT Seminar (2024/11/26), Bank of Finland; European Doctoral Programme Jamboree (2024/06/07), Barcelona; Marco Working Group (2024/04/18), European University Institute*
 
@@ -21,7 +21,7 @@ This paper investigates how collateral constraints influence firms’ investment
 
 [*Slides*](/assets/slides_collateral_investment.pdf), [*Draft*](/assets/draft_collateral_investment.pdf)
 
-**Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China**
+##### Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China
 
 *Presented at Finance Seminar (2023/05/23), Universitat Pompeu Fabra*
 
@@ -29,6 +29,6 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 [*Draft*](/assets/draft_qreg_ch.pdf)
 
-## Work in Progress
+#### Work in Progress
 
-**Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
+##### Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)
