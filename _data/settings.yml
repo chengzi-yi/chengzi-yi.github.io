@@ -6,8 +6,9 @@ menu:
 
 
 social:
-- {icon: 'github', link: 'https://github.com/chengzi-yi'}
+- {icon: 'github', style: 'fab', link: 'https://github.com/chengzi-yi'}
+- {icon: 'envelope', style: 'fas', link: 'mailto:chengzi.yi@eui.eu'}
 
 
 contacts:
-- {name: 'Chengzi Yi', department: 'Department of Economics', institution: 'European University Institute', institution_address: 'Via Delle Fontanelle 18, 50014 FI, Italy', phone: '(39) 351 520 1725', email: 'Chengzi.Yi@eui.eu', image: 'assets/img/contact.jpg'}
+- {name: 'Chengzi Yi', department: 'Department of Economics', institution: 'European University Institute', institution_address: 'Via Delle Fontanelle 18, 50014 FI, Italy', phone: '(39) 351 520 1725', email: 'Chengzi.Yi[at]eui.eu', image: 'assets/img/contact.jpg'}
