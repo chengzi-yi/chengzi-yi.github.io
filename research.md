@@ -3,11 +3,15 @@ layout: research
 title: "Research"
 permalink: /research
 ---
+## Job Market Paper
+
 **Export Dynamics of Multi-product Firms with (Non-)Differentiated Products**
 
 *Draft coming soon*
 
-This paper explores how product differentiation interacts with heterogeneous firm characteristics to shape export dynamics. Using sectoral data across 16 European countries and Slovenian firm-level data, I document two stylized facts. First, exporter labour productivity premiums (the difference in average labour productivity between exporters and non-exporters) are systematically lower in more differentiated sectors. Second, exporters in more differentiated sectors exhibit greater product concentration, suggesting a "star-product effect." I develop a dynamic structural model incorporating both firm-level productivity affecting marginal costs across all products and firm-product-market-specific appeal shocks. The model features a productivity-appeal interaction where the relative importance of firm efficiency versus product-specific characteristics varies with the degree of product differentiation, and economies of scope from shared fixed costs that generate the star-product effect. Calibrating separately for high-differentiation (machinery) and low-differentiation (food) sectors, I find that productivity heterogeneity explains 88% of labour productivity variances in food sector, while appeal shocks explain 65% in machinery sector.
+Canonical models with heterogeneous firms and sunk export-entry costs suggest that more profitable firms export, a phenomenon known as export sorting. This paper shows that export sorting varies systematically with product differentiation. Using Slovenian administrative data, I document that the gap in value added per worker between exporters and non-exporters is smaller in more differentiated sectors, especially among multiproduct firms. I rationalise this pattern with a model in which multiproduct firms choose product scope and export participation based on efficiency and market-specific product appeal, with sunk export costs shared across products. Estimating the model separately for high- and low-differentiation sectors reveals lower demand elasticities, higher fixed production costs, lower export-entry costs, and more volatile appeal shocks in the high-differentiation sector; the model reproduces the observed sorting patterns. I then evaluate a 50 percentage-point tariff on a single product and find large contractions with substantial spillovers in the low-differentiation sector but minimal spillovers and little aggregate response in the high-differentiation sector.
+
+## Other Papers
 
 **Collateral Constraints and Asset Composition**
 
@@ -25,7 +29,6 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 [*Draft*](/assets/draft_qreg_ch.pdf)
 
-**Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
+## Work in Progress
 
-- Investigates how product differentiation affects the export decisions of multi-destination, multi-product firms.
-- Utilises Colombian export data to examine distinct expansion patterns in both product and geographic dimensions for exporters of non-differentiated versus differentiated goods.
+**Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)**
