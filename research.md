@@ -1,11 +1,11 @@
 ---
 layout: research
-title: "Research"
+title: ""
 permalink: /research
 ---
 #### Job Market Paper
 
-##### Export Dynamics of Multiproduct Firms with (Non-)Differentiated Products
+**Export Dynamics of Multiproduct Firms with (Non-)Differentiated Products**
 
 *Draft coming soon*
 
@@ -13,7 +13,7 @@ Canonical models with heterogeneous firms and sunk export-entry costs suggest th
 
 #### Other Papers
 
-##### Collateral Constraints and Asset Composition
+**Collateral Constraints and Asset Composition**
 
 *Presented at BOFIT Seminar (2024/11/26), Bank of Finland; European Doctoral Programme Jamboree (2024/06/07), Barcelona; Marco Working Group (2024/04/18), European University Institute*
 
@@ -21,7 +21,7 @@ This paper investigates how collateral constraints influence firms’ investment
 
 [*Slides*](/assets/slides_collateral_investment.pdf), [*Draft*](/assets/draft_collateral_investment.pdf)
 
-##### Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China
+**Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China**
 
 *Presented at Finance Seminar (2023/05/23), Universitat Pompeu Fabra*
 
@@ -31,4 +31,4 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 #### Work in Progress
 
-##### Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter (*with Marius Gruenewald*)
+**Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter** (*with Marius Gruenewald*)
