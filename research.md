@@ -8,7 +8,7 @@ permalink: /research
 /* underline only h4 within this page wrapper */
 .research-only h4 {
   text-decoration: underline;
-  text-underline-offset: 0.3em;
+  text-underline-offset: 0.4em;
   text-decoration-thickness: 2px;
 }
 </style>
