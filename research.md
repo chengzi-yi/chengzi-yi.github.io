@@ -3,7 +3,6 @@ layout: research
 title: "Research"
 permalink: /research
 ---
-
 <style>
 /* underline only h4 within this page wrapper */
 .research-only h4 {
@@ -21,7 +20,7 @@ permalink: /research
 
 *Draft coming soon*
 
-Canonical models with heterogeneous firms and sunk export-entry costs suggest that more profitable firms export, a phenomenon known as export sorting. This paper shows that export sorting varies systematically with product differentiation. Using Slovenian administrative data, I document that the gap in value added per worker between exporters and non-exporters is smaller in more differentiated sectors, especially among multiproduct firms. I rationalise this pattern with a model in which multiproduct firms choose product scope and export participation based on efficiency and market-specific product appeal, with sunk export costs shared across products. Estimating the model separately for high- and low-differentiation sectors reveals lower demand elasticities, higher fixed production costs, lower export-entry costs, and more volatile appeal shocks in the high-differentiation sector; the model reproduces the observed sorting patterns. I then evaluate a 50 percentage-point tariff on a single product and find large contractions with substantial spillovers in the low-differentiation sector but minimal spillovers and little aggregate response in the high-differentiation sector.
+Canonical models with heterogeneous firms and sunk export costs predict that more profitable firms export (“export sorting”). This paper shows that the export sorting pattern varies systematically with product differentiation. Using Slovenian administrative data, I document that the gap in value added per worker between exporters and non-exporters is smaller in more differentiated sectors, especially among multiproduct firms. I rationalise this pattern with a model in which multiproduct firms choose product scope and export participation based on their efficiency and market-specific product appeal, with firm-level sunk  costs shared across products. Estimating the model separately for high- and low-differentiation sectors reveals that the high-differentiation sector has lower demand elasticities, higher fixed production costs, lower export-entry costs, and more volatile appeal shocks; the model reproduces the observed sorting patterns. I then evaluate a 50 percentage-point tariff increase on a single product and find large contractions with substantial spillovers in the low-differentiation sector but minimal spillovers and little aggregate response in the high-differentiation sector.
 
 ---
 
@@ -47,6 +46,6 @@ The investment regression on a sample of Chinese listed firms shows that there i
 
 #### Work in Progress
 
-
 **Product Differentiation and Export Dynamics of Multi-destination Multi-product Exporter** (*with Marius Gruenewald*)
+
 </div>
