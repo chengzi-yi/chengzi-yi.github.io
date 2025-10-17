@@ -11,10 +11,10 @@ permalink: /teaching
 
 **Undergraduate level:**
 
-- *Econometrics*, TA for Prof. Giampiero M.Gallo, NYU Florence Undergraduate Course, 2022/09-2022/12
+- *Econometrics*, TA for Prof. Giampiero M.Gallo, NYU Florence Undergraduate Course, 2022
 
 **Other:**
 
-- *Digital Currencies and Digital Finance*, TA for Prof. Thorsten Koeppl and Prof. Olena Havrylchyk, Central Banking Supervision and Banking Supervision Executive Education Programme, 2023/05-2023/12
-- *Machine Learning: Tools and Applications*, TA for Policy for Prof. Iman Van Lelyveld and Prof. Dieter Wang, Florence School of Banking and Finance, 2022/06
-- *International Finance*, TA for Prof. Xiaoyan Fan, Fudan International Summer Session, 2019/07-2019/08
+- *Digital Currencies and Digital Finance*, TA for Prof. Thorsten Koeppl and Prof. Olena Havrylchyk, Central Banking Supervision and Banking Supervision Executive Education Programme, 2023
+- *Machine Learning: Tools and Applications*, TA for Policy for Prof. Iman Van Lelyveld and Prof. Dieter Wang, Florence School of Banking and Finance, 2022
+- *International Finance*, TA for Prof. Xiaoyan Fan, Fudan International Summer Session, 2019
