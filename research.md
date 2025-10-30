@@ -18,7 +18,7 @@ permalink: /research
 
 **Export Dynamics of Multiproduct Firms with (Non-)Differentiated Products**
 
-{% include abstract_jmp.txt %}
+{% include abstract_mpf.txt %}
 
 [*Draft*](/assets/draft_mpf_trade.pdf)
 
