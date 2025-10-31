@@ -6,4 +6,4 @@ I am a Ph.D. researcher in Economics at the European University Institute, Italy
 
 My research focuses on heterogeneous firms and their dynamic decisions, and spans the fields of quantitative macroeconomics, firm dynamics, finance, and international trade.
 
-**I am on the 2025/26 Academic Job Market.**
+**I am on the 2025/26 Job Market.**
