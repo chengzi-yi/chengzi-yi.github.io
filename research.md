@@ -20,7 +20,7 @@ permalink: /research
 
 {% include abstract_mpf.txt %}
 
-[*Draft*](/assets/draft_mpf_trade.pdf)
+[*Paper*](/assets/draft_mpf_trade.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ permalink: /research
 
 {% include abstract_collateral.txt %}
 
-[*Slides*](/assets/slides_collateral_investment.pdf), [*Draft*](/assets/draft_collateral_investment.pdf)
+[*Slides*](/assets/slides_collateral_investment.pdf), [*Paper*](/assets/draft_collateral_investment.pdf)
 
 **Revisiting the Investment Regressions: State-owned Firms vs. Private Firms in China**
 
@@ -40,7 +40,7 @@ permalink: /research
 
 The investment regression on a sample of Chinese listed firms shows that there is a significant correlation between investment rate and cash flow ratio after conditioning on average Q. This is true for both state-owned firms and private firms, which are conventionally considered to have different financial conditions. As noted by Cooper and Ejarque (2003), the violation of the constant-returns-to-scale assumption creates a wedge between average Q and marginal Q and can lead to a spurious cash effect in the investment regression even when there are no financial frictions. Following their argument, this paper examines the investment regression results of the Chinese firms by estimating a standard Hayashi's (1982) model which allows for decreasing returns to scale. The estimation results suggest that despite the decreasing returns to scale of capital, the presence of financial constraints brings the standard capital adjustment model closer to the data moments of both state-owned and private firms in China.
 
-[*Draft*](/assets/draft_qreg_ch.pdf)
+[*Paper*](/assets/draft_qreg_ch.pdf)
 
 ---
 
