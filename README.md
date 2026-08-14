@@ -1,83 +1,66 @@
-# academic
+# Chengzi Yi — Personal Website
 
-### A Jekyll theme for academia
+This repository is the source for [chengzi-yi.github.io](https://chengzi-yi.github.io). It is a Jekyll site published through GitHub Pages. The original theme documentation is preserved in [JEKYLL_THEME_GUIDE.md](JEKYLL_THEME_GUIDE.md).
 
-![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
+## Where to make changes
 
-A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
+| Area | Files |
+| --- | --- |
+| Main page content | `index.md`, `research.md`, `teaching.md`, `cv.md`, `contact.md` |
+| Navigation and contact details | `_data/settings.yml` |
+| Research abstracts | `_includes/abstract_mpf.txt`, `_includes/abstract_collateral.txt` |
+| Public PDFs and images | `assets/` |
+| Site configuration | `_config.yml` |
 
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
+The research abstracts listed above are synchronized from their paper repositories. Update them through the scripts described below, not by editing the include files directly.
 
-* Manage courses that you are teaching.
+## PDF provenance
 
-* Provide updates to your students and faulty.
+PDFs in `assets/` are published copies. Edit and compile documents in their source repositories, then synchronize the outputs here.
 
-For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
+| Website asset | Source output | Update method |
+| --- | --- | --- |
+| `assets/CV_CZYi.pdf` | `~/Desktop/paperworks/job_application/application_materials/CV/YI_CV_academic/CV_CZYi.pdf` | Copied by either abstract-update script below |
+| `assets/draft_mpf_trade.pdf` | `~/Desktop/projects/trade_dynamics/writing/draft/draft_mpf_dynm/paper.pdf` | MPF update script |
+| `assets/draft_collateral_investment.pdf` | `~/Desktop/projects/RE_collateral/RE_collateral_writing/collateral_investment/main.pdf` | Collateral update script |
+| `assets/draft_qreg_ch.pdf` | `~/Desktop/projects/firm_investment/business_writing/draft_q_ch/q_reg_ch/main.pdf` | Compile and copy manually |
+| `assets/ECO-CO-STATS3-Statistics-and-Econometrics-3-1.pdf` | Candidate: `~/Desktop/work/TA/2022_Cooper_SMMGMM/ECO-CO-STATS3-Statistics-and-Econometrics-3-1.pdf` | **Unverified:** do not replace the website copy until its provenance is confirmed |
 
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
+`assets/teaching_evaluation.pdf` is ignored by Git and is not referenced by the site. It is outside the tracked maintenance workflow.
 
-## Installation
+## Synchronize papers and abstracts
 
-### Ruby Gem Method
+The two `update_abstract.sh` files are not executable, so invoke them with `bash`:
 
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "academic-jekyll-theme"
+```sh
+bash ~/Desktop/projects/trade_dynamics/writing/draft/draft_mpf_dynm/update_abstract.sh
+bash ~/Desktop/projects/RE_collateral/RE_collateral_writing/collateral_investment/update_abstract.sh
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+Each script recompiles its paper and the CV, converts and copies the paper abstract into `_includes/`, copies the paper and CV PDFs into `assets/`, and finishes by showing the website repository status. Review all resulting changes before committing.
 
-```yaml
-theme: academic-jekyll-theme
+The Q-reg paper is not handled by these scripts. After compiling `main.tex` in its source directory, copy the resulting PDF from the repository root:
+
+```sh
+cp ~/Desktop/projects/firm_investment/business_writing/draft_q_ch/q_reg_ch/main.pdf assets/draft_qreg_ch.pdf
 ```
 
-And then execute:
+## Review and publish
 
-    $ bundle
+Before publishing, review only the intended files:
 
-Or install it yourself as:
+```sh
+git status --short
+git diff --check
+git diff
+```
 
-    $ gem install academic-jekyll-theme
+Stage intended paths explicitly—never use `.DS_Store` files—and push the reviewed commit to `main`. GitHub Pages publishes from the repository after the push.
 
-## Usage
+## Maintenance guardrails
 
-### Layouts
-
-The following sections describe usage instructions for this Jekyll theme,including available layouts, includes, sass and/or assets.
-
-#### Home
-
-The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
-
-#### People
-
-The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
-
-#### Publications
-
-The `_layouts/publications.html` layout can be used to showcase selected publications, or the entire catalogue of publications. Direct links to the paper can be used, or a PDF copy of the paper can be served. Publications are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
-
-#### Courses
-
-The `_layouts/courses.html` layout can be used to showcase courses that were taught in the past or are currently being taught. Courses are defined in the `_data/settings.yml` file, and markdown pages for each course with the `_layouts/page.html` layout can be placed in the `courses` directory. Related course material, such as PDF files, can also be placed in the `courses` directory in a subdirectory with the same name as the corresponding course.
-
-#### CV
-
-The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
-
-#### Contact
-
-The `_layouts/contact.html` layout can be used to provide contact information for the research group or the people that lead the research group. Contact information is defined in the `_data/settings.yml` file.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/LeNPaul/academic. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`, then run `bundle exec jekyll serve`, and open your browser at `http://localhost:4000`. This starts a Jekyll server using this theme. Make changes to the pages, documents, data, etc. like normal to test this theme's contents. As you make modifications to this theme the site will regenerate and you should see the changes in the browser after a refresh.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+- Treat each provenance repository as the source of truth; do not edit copied PDFs in `assets/`.
+- Do not hand-edit synchronized abstract includes.
+- Never stage `.DS_Store`, generated LaTeX auxiliary files, or unrelated working-tree changes.
+- After running an update script, inspect both the abstract and every PDF it copied before committing.
+- Preserve existing site routes and asset filenames unless all inbound links are updated deliberately.
