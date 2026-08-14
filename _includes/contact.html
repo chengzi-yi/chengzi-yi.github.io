@@ -3,11 +3,21 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
+        {% if contact.department %}
         <p>{{ contact.department }}</p>
+        {% endif %}
+        {% if contact.institution %}
         <p>{{ contact.institution }}</p> 
+        {% endif %}
+        {% if contact.institution_address %}
         <p>{{ contact.institution_address }}</p>
+        {% endif %}
+        {% if contact.phone %}
         <p>Phone: {{ contact.phone }}</p>
+        {% endif %}
+        {% if contact.email %}
         <p>Email: {{ contact.email }}</p>
+        {% endif %}
       </div>
       <div class="col-md-6">
         <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
