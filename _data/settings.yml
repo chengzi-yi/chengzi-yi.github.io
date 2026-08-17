@@ -1,6 +1,5 @@
 menu:
 - {name: 'Research', url: '/research'}
-- {name: 'Teaching', url: '/teaching'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
@@ -11,4 +10,4 @@ social:
 
 
 contacts:
-- {institution: 'National Bank of Slovakia', email: 'Chengzi.Yi@nbs.sk', image: 'assets/img/contact.jpg'}
+- {institution: 'National Bank of Slovakia', email: 'Chengzi.Yi[at]nbs.sk', image: 'assets/img/contact.jpg'}
