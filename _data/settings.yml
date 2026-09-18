@@ -6,8 +6,8 @@ menu:
 
 social:
 - {icon: 'github', style: 'fab', link: 'https://github.com/chengzi-yi'}
-- {icon: 'envelope', style: 'fas', link: 'mailto:Chengzi.Yi@nbs.sk'}
+- {icon: 'envelope', style: 'fas', link: 'mailto:yic.econ@gmail.com'}
 
 
 contacts:
-- {institution: 'National Bank of Slovakia', email: 'Chengzi.Yi[at]nbs.sk', image: 'assets/img/contact.jpg'}
+- {institution: 'National Bank of Slovakia', email: 'yic.econ[at]gmail.com', image: 'assets/img/contact.jpg'}
